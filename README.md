@@ -1,5 +1,5 @@
 # WEATHER-APP
-Link - https://snasreen001.github.io/Weather-App1/<br><br>
+Link - https://snasreen001.github.io/WEATHER-APP/<br><br>
 <b>Overview</b>
 <ul>
 <li>This Weather App provides real-time weather updates for your current location as well as any city you search for. It has two main tabs:</li>
